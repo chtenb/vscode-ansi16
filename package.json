@@ -1,53 +1,58 @@
 {
-  "name": "ansi16",
-  "displayName": "Ansi 16 Theme Collection",
-  "description": "A collection of light & dark themes that adhere to the Ansi 16 standard",
-  "version": "0.1.0",
-  "publisher": "chtenb",
-  "icon": "images/logo.png",
-  "engines": {
-    "vscode": "^1.43.0"
-  },
-  "extensionKind": [
-    "ui",
-    "workspace"
-  ],
-  "galleryBanner": {
-    "color": "#052529",
-    "theme": "dark"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/chtenb/vscode-ansi16"
-  },
-  "scripts": {},
-  "categories": [
-    "Themes",
-    "Other"
-  ],
-  "keywords": [
-    "ansi",
-    "ansi16",
-    "semantic",
-    "standard",
-    "dark",
-    "light"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Noctis Lux Ansi 16",
-        "uiTheme": "vs",
-        "path": "./themes/noctis-lux-ansi16-color-theme.json"
-      },
-      {
-        "label": "Synthwave Material Ansi 16",
-        "uiTheme": "vs-dark",
-        "path": "./themes/synthwave-material-ansi16-color-theme.json"
-      }
-    ]
-  },
-  "dependencies": {},
-  "__metadata": {},
-  "devDependencies": {}
+	"name": "ansi16",
+	"displayName": "Ansi 16 Theme Collection",
+	"description": "A collection of light & dark themes that adhere to the Ansi 16 standard",
+	"version": "0.1.0",
+	"publisher": "ctenbrinke",
+	"icon": "images/logo.png",
+	"engines": {
+		"vscode": "^1.43.0"
+	},
+	"extensionKind": [
+		"ui",
+		"workspace"
+	],
+	"galleryBanner": {
+		"color": "#052529",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/chtenb/vscode-ansi16"
+	},
+	"scripts": {},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"keywords": [
+		"ansi",
+		"ansi16",
+		"semantic",
+		"standard",
+		"dark",
+		"light"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Noctis Lux Ansi 16",
+				"uiTheme": "vs",
+				"path": "./themes/noctis-lux-ansi16-color-theme.json"
+			},
+			{
+				"label": "Synthwave Material Ansi 16",
+				"uiTheme": "vs-dark",
+				"path": "./themes/synthwave-material-ansi16-color-theme.json"
+			}
+		]
+	},
+	"dependencies": {},
+	"__metadata": {
+		"id": "1dafbfac-2270-4d06-93b2-61376d43bff7",
+		"publisherDisplayName": "Chiel ten Brinke",
+		"publisherId": "11c359a4-d5c4-41ef-9393-61f4a10eab2f",
+		"isPreReleaseVersion": false
+	},
+	"devDependencies": {}
 }
