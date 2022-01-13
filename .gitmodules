@@ -1,0 +1,3 @@
+[submodule "ansi16"]
+	path = ansi16
+	url = https://github.com/chtenb/ansi16
