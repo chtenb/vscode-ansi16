@@ -267,18 +267,18 @@
     "terminal.ansiRed": "#e64100",
     "terminal.ansiGreen": "#00b368",
     "terminal.ansiYellow": "#fa8900",
-    "terminal.ansiBlue": "#0094f0",
+    "terminal.ansiBlue": "#0095a8",
     "terminal.ansiMagenta": "#ff5792",
     "terminal.ansiCyan": "#00bdd6",
     "terminal.ansiWhite": "#005661",
     "terminal.ansiBrightBlack": "#8ca6a6",
-    "terminal.ansiBrightRed": "#e64100",
+    "terminal.ansiBrightRed": "#7c4dff",
     "terminal.ansiBrightGreen": "#00b368",
-    "terminal.ansiBrightYellow": "#a88c00",
-    "terminal.ansiBrightBlue": "#004d57",
-    "terminal.ansiBrightMagenta": "#7c4dff",
+    "terminal.ansiBrightYellow": "#B3694D",
+    "terminal.ansiBrightBlue": "#0094f0",
+    "terminal.ansiBrightMagenta": "#ff5792",
     "terminal.ansiBrightCyan": "#0095a8",
-    "terminal.ansiBrightWhite": "#005661"
+    "terminal.ansiBrightWhite": "#B3694D"
   },
   "tokenColors": "./noctis-lux-ansi16.tmTheme"
 }
