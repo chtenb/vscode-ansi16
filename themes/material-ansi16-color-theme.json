@@ -172,7 +172,7 @@
     "terminalCursor.foreground": "#FFCB6B",
     "terminalCursor.background": "#000000",
     "terminal.background": "#263238",
-    "terminal.foreground": "#EEFFFF",
+    "terminal.foreground": "#DDEEEE",
     "terminal.ansiBlack": "#676e95",
     "terminal.ansiRed": "#f07178",
     "terminal.ansiGreen": "#c3e88d",
@@ -180,15 +180,15 @@
     "terminal.ansiBlue": "#82aaff",
     "terminal.ansiMagenta": "#c792ea",
     "terminal.ansiCyan": "#89DDFF",
-    "terminal.ansiWhite": "#EEFFFF",
+    "terminal.ansiWhite": "#dceaea",
     "terminal.ansiBrightBlack": "#676e95",
     "terminal.ansiBrightRed": "#ff5370",
     "terminal.ansiBrightGreen": "#87de97",
     "terminal.ansiBrightYellow": "#f78c6c",
-    "terminal.ansiBrightBlue": "#b9dedf",
+    "terminal.ansiBrightBlue": "#b2e4e6",
     "terminal.ansiBrightMagenta": "#c792ea",
-    "terminal.ansiBrightCyan": "#b9dedf",
-    "terminal.ansiBrightWhite": "#EEFFFF"
+    "terminal.ansiBrightCyan": "#b2e4e6",
+    "terminal.ansiBrightWhite": "#dceaea"
   },
   "tokenColors": "./material-ansi16.tmTheme"
 }

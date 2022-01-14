@@ -172,7 +172,7 @@
     "terminalCursor.foreground": "#FFCB6B",
     "terminalCursor.background": "#000000",
     "terminal.background": "#263238",
-    "terminal.foreground": "#EEFFFF",
+    "terminal.foreground": "#DDEEEE",
     "terminal.ansiBlack": "$black",
     "terminal.ansiRed": "$red",
     "terminal.ansiGreen": "$green",
