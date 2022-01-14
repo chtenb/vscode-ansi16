@@ -36,6 +36,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Material Community Default Ansi 16",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-ansi16-color-theme.json"
+      },
+      {
         "label": "Noctis Lux Ansi 16",
         "uiTheme": "vs",
         "path": "./themes/noctis-lux-ansi16-color-theme.json"
