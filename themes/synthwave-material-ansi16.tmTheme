@@ -9,7 +9,7 @@
 	<key>comment</key>
 	<string>Generated from the ansi16 template at https://github.com/chtenb/ansi16</string>
 	<key>name</key>
-	<string>Material Dark Ansi 16</string>
+	<string>Synthwave Material Ansi 16</string>
 	<key>semanticClass</key>
 	<string>theme.dark.material-ansi16</string>
 	<key>settings</key>
@@ -330,7 +330,7 @@
 			<key>name</key>
 			<string>Storage</string>
 			<key>scope</key>
-			<string>source.js storage</string>
+			<string>source.js storage, source.js keyword.declaration</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>

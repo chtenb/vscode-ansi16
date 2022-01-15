@@ -1,5 +1,5 @@
 {
-  "name": "SynthWave Material",
+  "name": "SynthWave Material Ansi 16",
   "type": "dark",
   "semanticHighlighting": true,
   "colors": {
@@ -147,5 +147,5 @@
     "terminal.ansiBrightCyan": "$brightCyan",
     "terminal.ansiBrightWhite": "$brightWhite"
   },
-  "tokenColors": "./material-dark-ansi16.tmTheme"
+  "tokenColors": "./synthwave-material-ansi16.tmTheme"
 }

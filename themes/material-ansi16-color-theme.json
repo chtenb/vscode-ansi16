@@ -188,7 +188,7 @@
     "terminal.ansiBrightBlue": "#b2e4e6",
     "terminal.ansiBrightMagenta": "#c792ea",
     "terminal.ansiBrightCyan": "#b2e4e6",
-    "terminal.ansiBrightWhite": "#dceaea"
+    "terminal.ansiBrightWhite": "#f2f3ec"
   },
   "tokenColors": "./material-ansi16.tmTheme"
 }
