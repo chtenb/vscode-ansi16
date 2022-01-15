@@ -278,7 +278,7 @@
     "terminal.ansiBrightBlue": "#0094f0",
     "terminal.ansiBrightMagenta": "#ff5792",
     "terminal.ansiBrightCyan": "#0095a8",
-    "terminal.ansiBrightWhite": "#B3694D"
+    "terminal.ansiBrightWhite": "#004d57"
   },
   "tokenColors": "./noctis-lux-ansi16.tmTheme"
 }
