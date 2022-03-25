@@ -259,7 +259,7 @@
     "minimapGutter.modifiedBackground": "#14b832",
     "minimapGutter.deletedBackground": "#ff4000",
     "minimap.background": "#fef8ec99",
-    "terminal.background": "#f6edda",
+    "terminal.background": "#fef8ec",
     "terminal.foreground": "#005661",
     "terminalCursor.background": "#f6edda",
     "terminalCursor.foreground": "#005661",
