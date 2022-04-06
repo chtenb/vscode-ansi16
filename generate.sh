@@ -1,4 +1,3 @@
-#!/bin/bash
 (cd ansi16/ && ./generate.py)
 rm themes/*
 cp -f ansi16/*.tmTheme themes/
