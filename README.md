@@ -6,11 +6,11 @@ The font used in the screenshots is cascadia code.
 
 ## Synthwave Material Ansi 16
 
-[![](images/synthwave-code.png)](images/synthwave-code.png)
+[![](images/synthwave-code.png)](images/synthwave-material-code.png)
 
 ## Material Community Ansi 16
 
-[![](images/material-code.png)](images/material-code.png)
+[![](images/material-code.png)](images/material-community-code.png)
 
 ## Noctis Lux Ansi 16
 
