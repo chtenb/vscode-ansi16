@@ -20,7 +20,9 @@
     "type": "git",
     "url": "https://github.com/chtenb/vscode-ansi16"
   },
-  "scripts": {},
+  "scripts": {
+    "release": "vsce package"
+  },
   "categories": [
     "Themes",
     "Other"
@@ -52,12 +54,15 @@
       }
     ]
   },
-  "dependencies": {},
+  "dependencies": {
+  },
   "__metadata": {
     "id": "1dafbfac-2270-4d06-93b2-61376d43bff7",
     "publisherDisplayName": "Chiel ten Brinke",
     "publisherId": "11c359a4-d5c4-41ef-9393-61f4a10eab2f",
     "isPreReleaseVersion": false
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "vsce": "^2.7.0"
+  }
 }
