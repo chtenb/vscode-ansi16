@@ -1,7 +1,7 @@
 {
   "name": "ansi16",
-  "displayName": "Ansi 16 Theme Collection",
-  "description": "A collection of light & dark themes that comply with the Ansi 16 standard",
+  "displayName": "Ansi16 Theme Collection",
+  "description": "A collection of light & dark themes that comply with the Ansi16 standard",
   "version": "0.3.7",
   "publisher": "ctenbrinke",
   "icon": "images/logo.png",
@@ -38,17 +38,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "Synthwave Material Ansi 16",
+        "label": "Synthwave Material Ansi16",
         "uiTheme": "vs-dark",
         "path": "./themes/synthwave-material-ansi16-color-theme.json"
       },
       {
-        "label": "Material Community Ansi 16",
+        "label": "Material Community Ansi16",
         "uiTheme": "vs-dark",
         "path": "./themes/material-ansi16-color-theme.json"
       },
       {
-        "label": "Noctis Lux Ansi 16",
+        "label": "Noctis Lux Ansi16",
         "uiTheme": "vs",
         "path": "./themes/noctis-lux-ansi16-color-theme.json"
       }
