@@ -144,7 +144,7 @@
     "terminal.ansiBrightYellow": "#f78c6c",
     "terminal.ansiBrightBlue": "#b9dedf",
     "terminal.ansiBrightMagenta": "#c792ea",
-    "terminal.ansiBrightCyan": "#91f5f8",
+    "terminal.ansiBrightCyan": "#8ee2e5",
     "terminal.ansiBrightWhite": "#dddddd"
   },
   "tokenColors": "./synthwave-material-ansi16.tmTheme"
