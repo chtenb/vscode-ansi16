@@ -1,7 +1,6 @@
 {
   "name": "Noctis Lux Ansi 16",
   "type": "light",
-  "semanticHighlighting": true,
   "colors": {
     "selection.background": "#169fb155",
     "descriptionForeground": "#929ea0",
@@ -138,12 +137,12 @@
     "editorBracketMatch.border": "#0099ad",
     "editorRuler.foreground": "#f1e6d0",
     "editorCodeLens.foreground": "#77aaca",
-    "editorInlayHint.background":"#f9f1e1",
-    "editorInlayHint.foreground":"#8ca6a6",
-    "editorInlayHint.typeBackground":"#f9f1e1",
-    "editorInlayHint.typeForeground":"#8ca6a6",
-    "editorInlayHint.parameterBackground":"#f9f1e1",
-    "editorInlayHint.parameterForeground":"#8ca6a6",
+    "editorInlayHint.background": "#f9f1e1",
+    "editorInlayHint.foreground": "#8ca6a6",
+    "editorInlayHint.typeBackground": "#f9f1e1",
+    "editorInlayHint.typeForeground": "#8ca6a6",
+    "editorInlayHint.parameterBackground": "#f9f1e1",
+    "editorInlayHint.parameterForeground": "#8ca6a6",
     "merge.border": "#fef8ec00",
     "merge.currentContentBackground": "#33e7ff33",
     "merge.currentHeaderBackground": "#33e7ff55",
@@ -286,5 +285,6 @@
     "terminal.ansiBrightCyan": "#00bdd6",
     "terminal.ansiBrightWhite": "#004d57"
   },
-  "tokenColors": "./noctis-lux-ansi16.tmTheme"
+  "tokenColors": "./noctis-lux-ansi16.tmTheme",
+  "semanticHighlighting": true
 }
