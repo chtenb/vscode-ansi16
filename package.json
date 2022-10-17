@@ -2,7 +2,7 @@
   "name": "ansi16",
   "displayName": "Ansi16 Theme Collection",
   "description": "A collection of light & dark themes that comply with the Ansi16 standard",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "publisher": "ctenbrinke",
   "icon": "images/logo.png",
   "engines": {
